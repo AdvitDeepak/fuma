@@ -2,7 +2,6 @@
 __pycache__
 *.err
 *.out
-*.sh
 
 # Stage 1 - Unlearn 
 unlearn/outputs/
