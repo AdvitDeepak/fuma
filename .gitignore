@@ -1,0 +1,16 @@
+.vscode/
+__pycache__
+*.err
+*.out
+*.sh
+
+# Stage 1 - Unlearn 
+unlearn/outputs/
+unlearn/models/tofu_ft_llama2-7b/
+unlearn/models/unlearned-adapters/*
+
+!unlearn/tests/README.md
+
+# Stage 2 - Attack
+attack/results/*.json
+attack/results/plots/*.png

@@ -1,0 +1,259 @@
+dataset,unlearning-method,learning-rate,LoRA-rank,epochs,indices,hf-link
+tofu,grad-diff,1e-05,8,600,[1112],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1112
+tofu,grad-diff,1e-05,8,600,[2240],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2240
+tofu,grad-diff,1e-05,8,600,[553],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_553
+tofu,grad-diff,1e-05,8,600,[3195],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_3195
+tofu,grad-diff,1e-05,8,600,[92],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_92
+tofu,grad-diff,1e-05,8,600,[1707],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1707
+tofu,grad-diff,1e-05,8,600,[1982],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1982
+tofu,grad-diff,1e-05,8,600,[1323],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1323
+tofu,grad-diff,1e-05,8,600,[1721],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1721
+tofu,grad-diff,1e-05,8,600,[867],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_867
+tofu,grad-diff,1e-05,8,600,[2703],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2703
+tofu,grad-diff,1e-05,8,600,[23],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_23
+tofu,grad-diff,1e-05,8,600,[2105],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2105
+tofu,grad-diff,1e-05,8,600,[1564],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1564
+tofu,grad-diff,1e-05,8,600,[492],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_492
+tofu,grad-diff,1e-05,8,600,[807],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_807
+tofu,grad-diff,1e-05,8,600,[1349],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1349
+tofu,grad-diff,1e-05,8,600,[2312],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2312
+tofu,grad-diff,1e-05,8,600,[183],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_183
+tofu,grad-diff,1e-05,8,600,[1215],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1215
+tofu,grad-diff,1e-05,8,600,[2960],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2960
+tofu,grad-diff,1e-05,8,600,[613],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_613
+tofu,grad-diff,1e-05,8,600,[2890],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2890
+tofu,grad-diff,1e-05,8,600,[1402],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1402
+tofu,grad-diff,1e-05,8,600,[1910],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1910
+tofu,grad-diff,1e-05,8,600,[1000],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1000
+tofu,grad-diff,1e-05,8,600,[1093],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1093
+tofu,grad-diff,1e-05,8,600,[2511],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2511
+tofu,grad-diff,1e-05,8,600,[1883],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1883
+tofu,grad-diff,1e-05,8,600,[738],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_738
+tofu,grad-diff,1e-05,8,600,[2000],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2000
+tofu,grad-diff,1e-05,8,600,[1616],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1616
+tofu,grad-diff,1e-05,8,600,[690],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_690
+tofu,grad-diff,1e-05,8,600,[812],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_812
+tofu,grad-diff,1e-05,8,600,[58],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_58
+tofu,grad-diff,1e-05,8,600,[1492],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1492
+tofu,grad-diff,1e-05,8,600,[123],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_123
+tofu,grad-diff,1e-05,8,600,[717],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_717
+tofu,grad-diff,1e-05,8,600,[265],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_265
+tofu,grad-diff,1e-05,8,600,[320],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_320
+tofu,grad-diff,1e-05,8,600,[419],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_419
+tofu,grad-diff,1e-05,8,600,[2498],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2498
+tofu,grad-diff,1e-05,8,600,[344],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_344
+tofu,grad-diff,1e-05,8,600,[957],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_957
+tofu,grad-diff,1e-05,48,600,[37],https://huggingface.co/advit/tofu_grad-diff_1e-05_48_600_37
+tofu,grad-diff,1e-05,8,600,[2500],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2500
+tofu,grad-diff,1e-05,48,600,[350],https://huggingface.co/advit/tofu_grad-diff_1e-05_48_600_350
+tofu,grad-diff,1e-05,48,600,[2033],https://huggingface.co/advit/tofu_grad-diff_1e-05_48_600_2033
+tofu,grad-diff,1e-05,16,600,[2500],https://huggingface.co/advit/tofu_grad-diff_1e-05_16_600_2500
+tofu,grad-diff,1e-05,48,600,[1590],https://huggingface.co/advit/tofu_grad-diff_1e-05_48_600_1590
+tofu,grad-diff,1e-05,12,600,[198],https://huggingface.co/advit/tofu_grad-diff_1e-05_12_600_198
+tofu,grad-diff,1e-05,16,600,[198],https://huggingface.co/advit/tofu_grad-diff_1e-05_16_600_198
+tofu,grad-diff,1e-05,16,600,[1234],https://huggingface.co/advit/tofu_grad-diff_1e-05_16_600_1234
+tofu,grad-diff,1e-05,32,600,[37],https://huggingface.co/advit/tofu_grad-diff_1e-05_32_600_37
+tofu,grad-diff,1e-05,32,600,[612],https://huggingface.co/advit/tofu_grad-diff_1e-05_32_600_612
+tofu,grad-diff,1e-05,24,600,[37],https://huggingface.co/advit/tofu_grad-diff_1e-05_24_600_37
+tofu,grad-diff,1e-05,8,600,[1234],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1234
+tofu,grad-diff,1e-05,64,600,[37],https://huggingface.co/advit/tofu_grad-diff_1e-05_64_600_37
+tofu,grad-diff,1e-05,8,600,[198],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_198
+tofu,grad-diff,1e-05,128,600,[350],https://huggingface.co/advit/tofu_grad-diff_1e-05_128_600_350
+tofu,grad-diff,1e-05,64,600,[999],https://huggingface.co/advit/tofu_grad-diff_1e-05_64_600_999
+tofu,grad-diff,1e-05,24,600,[198],https://huggingface.co/advit/tofu_grad-diff_1e-05_24_600_198
+tofu,grad-diff,1e-05,128,600,[37],https://huggingface.co/advit/tofu_grad-diff_1e-05_128_600_37
+tofu,grad-diff,1e-05,12,600,[350],https://huggingface.co/advit/tofu_grad-diff_1e-05_12_600_350
+tofu,grad-diff,1e-05,16,600,[350],https://huggingface.co/advit/tofu_grad-diff_1e-05_16_600_350
+tofu,grad-diff,1e-05,48,600,[198],https://huggingface.co/advit/tofu_grad-diff_1e-05_48_600_198
+tofu,grad-diff,1e-05,64,600,[612],https://huggingface.co/advit/tofu_grad-diff_1e-05_64_600_612
+tofu,grad-diff,1e-05,8,600,[1590],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1590
+tofu,grad-diff,1e-05,16,600,[1590],https://huggingface.co/advit/tofu_grad-diff_1e-05_16_600_1590
+tofu,grad-diff,1e-05,32,600,[999],https://huggingface.co/advit/tofu_grad-diff_1e-05_32_600_999
+tofu,grad-diff,1e-05,48,600,[1234],https://huggingface.co/advit/tofu_grad-diff_1e-05_48_600_1234
+tofu,grad-diff,1e-05,128,600,[198],https://huggingface.co/advit/tofu_grad-diff_1e-05_128_600_198
+tofu,grad-diff,1e-05,24,600,[350],https://huggingface.co/advit/tofu_grad-diff_1e-05_24_600_350
+tofu,grad-diff,1e-05,16,600,[2033],https://huggingface.co/advit/tofu_grad-diff_1e-05_16_600_2033
+tofu,grad-diff,1e-05,8,600,[2033],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2033
+tofu,grad-diff,1e-05,8,600,[350],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_350
+tofu,grad-diff,1e-05,24,600,[612],https://huggingface.co/advit/tofu_grad-diff_1e-05_24_600_612
+tofu,grad-diff,1e-05,128,600,[2033],https://huggingface.co/advit/tofu_grad-diff_1e-05_128_600_2033
+tofu,grad-diff,1e-05,48,600,[999],https://huggingface.co/advit/tofu_grad-diff_1e-05_48_600_999
+tofu,grad-diff,1e-05,64,600,[1234],https://huggingface.co/advit/tofu_grad-diff_1e-05_64_600_1234
+tofu,grad-diff,1e-05,8,600,[612],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_612
+tofu,grad-diff,1e-05,128,600,[1590],https://huggingface.co/advit/tofu_grad-diff_1e-05_128_600_1590
+tofu,grad-diff,1e-05,16,600,[37],https://huggingface.co/advit/tofu_grad-diff_1e-05_16_600_37
+tofu,grad-diff,1e-05,64,600,[2500],https://huggingface.co/advit/tofu_grad-diff_1e-05_64_600_2500
+tofu,grad-diff,1e-05,32,600,[1590],https://huggingface.co/advit/tofu_grad-diff_1e-05_32_600_1590
+tofu,grad-diff,1e-05,12,600,[2033],https://huggingface.co/advit/tofu_grad-diff_1e-05_12_600_2033
+tofu,grad-diff,1e-05,128,600,[999],https://huggingface.co/advit/tofu_grad-diff_1e-05_128_600_999
+tofu,grad-diff,1e-05,64,600,[350],https://huggingface.co/advit/tofu_grad-diff_1e-05_64_600_350
+tofu,grad-diff,1e-05,24,600,[1234],https://huggingface.co/advit/tofu_grad-diff_1e-05_24_600_1234
+tofu,grad-diff,1e-05,12,600,[1590],https://huggingface.co/advit/tofu_grad-diff_1e-05_12_600_1590
+tofu,grad-diff,1e-05,24,600,[2500],https://huggingface.co/advit/tofu_grad-diff_1e-05_24_600_2500
+tofu,grad-diff,1e-05,32,600,[198],https://huggingface.co/advit/tofu_grad-diff_1e-05_32_600_198
+tofu,grad-diff,1e-05,32,600,[2033],https://huggingface.co/advit/tofu_grad-diff_1e-05_32_600_2033
+tofu,grad-diff,1e-05,16,600,[612],https://huggingface.co/advit/tofu_grad-diff_1e-05_16_600_612
+tofu,grad-diff,1e-05,12,600,[612],https://huggingface.co/advit/tofu_grad-diff_1e-05_12_600_612
+tofu,grad-diff,1e-05,32,600,[2500],https://huggingface.co/advit/tofu_grad-diff_1e-05_32_600_2500
+tofu,grad-diff,1e-05,8,600,[37],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_37
+tofu,grad-diff,1e-05,12,600,[999],https://huggingface.co/advit/tofu_grad-diff_1e-05_12_600_999
+tofu,grad-diff,1e-05,24,600,[2033],https://huggingface.co/advit/tofu_grad-diff_1e-05_24_600_2033
+tofu,grad-diff,1e-05,16,600,[999],https://huggingface.co/advit/tofu_grad-diff_1e-05_16_600_999
+tofu,grad-diff,1e-05,12,600,[1234],https://huggingface.co/advit/tofu_grad-diff_1e-05_12_600_1234
+tofu,grad-diff,1e-05,24,600,[1590],https://huggingface.co/advit/tofu_grad-diff_1e-05_24_600_1590
+tofu,grad-diff,1e-05,12,600,[2500],https://huggingface.co/advit/tofu_grad-diff_1e-05_12_600_2500
+tofu,grad-diff,1e-05,32,600,[1234],https://huggingface.co/advit/tofu_grad-diff_1e-05_32_600_1234
+tofu,grad-diff,1e-05,12,600,[37],https://huggingface.co/advit/tofu_grad-diff_1e-05_12_600_37
+tofu,grad-diff,1e-05,128,600,[612],https://huggingface.co/advit/tofu_grad-diff_1e-05_128_600_612
+tofu,grad-diff,1e-05,128,600,[1234],https://huggingface.co/advit/tofu_grad-diff_1e-05_128_600_1234
+tofu,grad-diff,1e-05,64,600,[2033],https://huggingface.co/advit/tofu_grad-diff_1e-05_64_600_2033
+tofu,grad-diff,1e-05,32,600,[350],https://huggingface.co/advit/tofu_grad-diff_1e-05_32_600_350
+tofu,grad-diff,1e-05,128,600,[2500],https://huggingface.co/advit/tofu_grad-diff_1e-05_128_600_2500
+tofu,grad-diff,1e-05,64,600,[198],https://huggingface.co/advit/tofu_grad-diff_1e-05_64_600_198
+tofu,grad-diff,1e-05,64,600,[1590],https://huggingface.co/advit/tofu_grad-diff_1e-05_64_600_1590
+tofu,grad-diff,1e-05,24,600,[999],https://huggingface.co/advit/tofu_grad-diff_1e-05_24_600_999
+tofu,grad-diff,1e-05,8,600,[999],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_999
+tofu,grad-diff,1e-05,48,600,[612],https://huggingface.co/advit/tofu_grad-diff_1e-05_48_600_612
+tofu,grad-diff,1e-05,48,600,[2500],https://huggingface.co/advit/tofu_grad-diff_1e-05_48_600_2500
+rwku,grad-diff,1e-05,8,600,[2088],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_2088
+rwku,grad-diff,1e-05,8,600,[362],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_362
+rwku,grad-diff,1e-05,8,600,[4],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_4
+rwku,grad-diff,1e-05,8,600,[1276],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_1276
+rwku,grad-diff,1e-05,8,600,[631],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_631
+rwku,grad-diff,1e-05,8,600,[1188],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_1188
+rwku,grad-diff,1e-05,8,600,[1542],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_1542
+rwku,grad-diff,1e-05,8,600,[421],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_421
+rwku,grad-diff,1e-05,8,600,[288],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_288
+rwku,grad-diff,1e-05,8,600,[372],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_372
+rwku,grad-diff,1e-05,8,600,[1266],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_1266
+rwku,grad-diff,1e-05,8,600,[144],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_144
+rwku,grad-diff,1e-05,8,600,[1012],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_1012
+rwku,grad-diff,1e-05,8,600,[391],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_391
+rwku,grad-diff,1e-05,8,600,[278],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_278
+rwku,grad-diff,1e-05,8,600,[20],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_20
+rwku,grad-diff,1e-05,8,600,[1670],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_1670
+rwku,grad-diff,1e-05,8,600,[775],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_775
+rwku,grad-diff,1e-05,8,600,[55],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_55
+rwku,grad-diff,1e-05,8,600,[190],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_190
+rwku,grad-diff,1e-05,8,600,[2294],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_2294
+rwku,grad-diff,1e-05,8,600,[785],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_785
+rwku,grad-diff,1e-05,8,600,[411],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_411
+rwku,grad-diff,1e-05,8,600,[1408],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_1408
+rwku,grad-diff,1e-05,8,600,[45],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_45
+rwku,grad-diff,1e-05,8,600,[2676],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_2676
+rwku,grad-diff,1e-05,8,600,[1946],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_1946
+rwku,grad-diff,1e-05,8,600,[537],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_537
+rwku,grad-diff,1e-05,8,600,[547],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_547
+rwku,grad-diff,1e-05,8,600,[890],https://huggingface.co/advit/rwku_grad-diff_1e-05_8_600_890
+tofu,grad-diff,1e-05,8,600,"[102, 104, 107, 109, 112, 114, 115, 116, 117, 119]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_102-104-107-109-112-114-115-116-117-119
+tofu,grad-diff,1e-05,8,600,"[42, 45, 49, 51, 59]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_42-45-49-51-59
+tofu,grad-diff,1e-05,8,600,"[904, 905, 908, 910, 918]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_904-905-908-910-918
+tofu,grad-diff,1e-05,8,600,"[2667, 2672, 2673, 2675, 2677]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2667-2672-2673-2675-2677
+tofu,grad-diff,1e-05,8,600,[42],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_42
+tofu,grad-diff,1e-05,8,600,"[2900, 2901, 2902, 2903, 2904, 2905, 2906, 2907, 2908, 2909, 2910, 2911, 2912, 2913, 2914, 2915, 2916, 2917, 2918, 2919]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2900-2919-inclusive
+tofu,grad-diff,1e-05,8,600,"[1320, 1324, 1327, 1333, 1334]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1320-1324-1327-1333-1334
+tofu,grad-diff,1e-05,8,600,"[2140, 2141, 2142, 2143, 2144, 2145, 2146, 2147, 2148, 2149, 2150, 2151, 2152, 2153, 2154, 2155, 2156, 2157, 2158, 2159]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2140-2159-inclusive
+tofu,grad-diff,1e-05,8,600,"[1900, 1904, 1906, 1907, 1908, 1909, 1911, 1912, 1915, 1917]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1900-1904-1906-1907-1908-1909-1911-1912-1915-1917
+tofu,grad-diff,1e-05,8,600,"[1482, 1484, 1486, 1490, 1492]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1482-1484-1486-1490-1492
+tofu,grad-diff,1e-05,8,600,"[900, 901, 902, 903, 905, 908, 911, 914, 916, 918]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_900-901-902-903-905-908-911-914-916-918
+tofu,grad-diff,1e-05,8,600,"[1480, 1481, 1482, 1483, 1484, 1485, 1486, 1487, 1488, 1489, 1490, 1491, 1492, 1493, 1494, 1495, 1496, 1497, 1498, 1499]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1480-1499-inclusive
+tofu,grad-diff,1e-05,8,600,[2140],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2140
+tofu,grad-diff,1e-05,8,600,[1906],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1906
+tofu,grad-diff,1e-05,8,600,"[41, 42, 44, 45, 48, 49, 50, 52, 53, 54]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_41-42-44-45-48-49-50-52-53-54
+tofu,grad-diff,1e-05,8,600,"[2140, 2141, 2144, 2147, 2148, 2151, 2152, 2153, 2156, 2157]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2140-2141-2144-2147-2148-2151-2152-2153-2156-2157
+tofu,grad-diff,1e-05,8,600,[2673],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2673
+tofu,grad-diff,1e-05,8,600,[2918],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2918
+tofu,grad-diff,1e-05,8,600,[1327],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1327
+tofu,grad-diff,1e-05,8,600,"[102, 104, 108, 112, 117]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_102-104-108-112-117
+tofu,grad-diff,1e-05,8,600,"[40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_40-59-inclusive
+tofu,grad-diff,1e-05,8,600,"[683, 684, 686, 687, 688, 694, 695, 696, 697, 699]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_683-684-686-687-688-694-695-696-697-699
+tofu,grad-diff,1e-05,8,600,"[1480, 1481, 1482, 1484, 1488, 1491, 1492, 1494, 1495, 1499]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1480-1481-1482-1484-1488-1491-1492-1494-1495-1499
+tofu,grad-diff,1e-05,8,600,[905],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_905
+tofu,grad-diff,1e-05,8,600,"[686, 688, 689, 694, 698]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_686-688-689-694-698
+tofu,grad-diff,1e-05,8,600,[1482],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1482
+tofu,grad-diff,1e-05,8,600,[688],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_688
+tofu,grad-diff,1e-05,8,600,"[2901, 2909, 2915, 2918, 2919]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2901-2909-2915-2918-2919
+tofu,grad-diff,1e-05,8,600,[117],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_117
+tofu,grad-diff,1e-05,8,600,"[1900, 1906, 1907, 1910, 1912]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1900-1906-1907-1910-1912
+tofu,grad-diff,1e-05,8,600,"[680, 681, 682, 683, 684, 685, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_680-699-inclusive
+tofu,grad-diff,1e-05,8,600,"[100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_100-119-inclusive
+tofu,grad-diff,1e-05,8,600,"[1900, 1901, 1902, 1903, 1904, 1905, 1906, 1907, 1908, 1909, 1910, 1911, 1912, 1913, 1914, 1915, 1916, 1917, 1918, 1919]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1900-1919-inclusive
+tofu,grad-diff,1e-05,8,600,"[2901, 2902, 2905, 2906, 2907, 2911, 2914, 2917, 2918, 2919]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2901-2902-2905-2906-2907-2911-2914-2917-2918-2919
+tofu,grad-diff,1e-05,8,600,"[1320, 1324, 1326, 1327, 1329, 1332, 1333, 1335, 1336, 1339]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1320-1324-1326-1327-1329-1332-1333-1335-1336-1339
+tofu,grad-diff,1e-05,8,600,"[2661, 2662, 2663, 2664, 2665, 2666, 2667, 2668, 2673, 2679]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2661-2662-2663-2664-2665-2666-2667-2668-2673-2679
+tofu,grad-diff,1e-05,8,600,"[2140, 2149, 2150, 2154, 2157]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2140-2149-2150-2154-2157
+tofu,grad-diff,1e-05,8,600,"[1320, 1321, 1322, 1323, 1324, 1325, 1326, 1327, 1328, 1329, 1330, 1331, 1332, 1333, 1334, 1335, 1336, 1337, 1338, 1339]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1320-1339-inclusive
+tofu,grad-diff,1e-05,8,600,"[900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 915, 916, 917, 918, 919]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_900-919-inclusive
+tofu,grad-diff,1e-05,8,600,"[2660, 2661, 2662, 2663, 2664, 2665, 2666, 2667, 2668, 2669, 2670, 2671, 2672, 2673, 2674, 2675, 2676, 2677, 2678, 2679]",https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2660-2679-inclusive
+tofu,grad-diff,1e-05,8,200,[2075],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_200_2075
+tofu,grad-diff,1e-05,8,600,[1802],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1802
+tofu,grad-diff,1e-05,8,700,[276],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_700_276
+tofu,grad-diff,1e-05,8,800,[954],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_800_954
+tofu,grad-diff,1e-05,8,400,[954],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_400_954
+tofu,grad-diff,1e-05,8,300,[1187],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_300_1187
+tofu,grad-diff,1e-05,8,400,[1802],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_400_1802
+tofu,grad-diff,1e-05,8,200,[45],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_200_45
+tofu,grad-diff,1e-05,8,100,[529],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_100_529
+tofu,grad-diff,1e-05,8,200,[1570],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_200_1570
+tofu,grad-diff,1e-05,8,600,[276],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_276
+tofu,grad-diff,1e-05,8,900,[1802],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_900_1802
+tofu,grad-diff,1e-05,8,900,[954],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_900_954
+tofu,grad-diff,1e-05,8,600,[45],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_45
+tofu,grad-diff,1e-05,8,500,[954],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_500_954
+tofu,grad-diff,1e-05,8,100,[1187],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_100_1187
+tofu,grad-diff,1e-05,8,400,[1570],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_400_1570
+tofu,grad-diff,1e-05,8,900,[276],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_900_276
+tofu,grad-diff,1e-05,8,200,[529],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_200_529
+tofu,grad-diff,1e-05,8,300,[45],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_300_45
+tofu,grad-diff,1e-05,8,200,[1802],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_200_1802
+tofu,grad-diff,1e-05,8,600,[2075],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_2075
+tofu,grad-diff,1e-05,8,900,[1570],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_900_1570
+tofu,grad-diff,1e-05,8,500,[276],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_500_276
+tofu,grad-diff,1e-05,8,700,[1187],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_700_1187
+tofu,grad-diff,1e-05,8,700,[45],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_700_45
+tofu,grad-diff,1e-05,8,600,[954],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_954
+tofu,grad-diff,1e-05,8,800,[276],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_800_276
+tofu,grad-diff,1e-05,8,300,[529],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_300_529
+tofu,grad-diff,1e-05,8,900,[2075],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_900_2075
+tofu,grad-diff,1e-05,8,600,[1570],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1570
+tofu,grad-diff,1e-05,8,400,[276],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_400_276
+tofu,grad-diff,1e-05,8,400,[2075],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_400_2075
+tofu,grad-diff,1e-05,8,500,[1187],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_500_1187
+tofu,grad-diff,1e-05,8,700,[954],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_700_954
+tofu,grad-diff,1e-05,8,800,[1187],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_800_1187
+tofu,grad-diff,1e-05,8,300,[276],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_300_276
+tofu,grad-diff,1e-05,8,100,[45],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_100_45
+tofu,grad-diff,1e-05,8,800,[529],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_800_529
+tofu,grad-diff,1e-05,8,600,[1187],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_1187
+tofu,grad-diff,1e-05,8,400,[529],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_400_529
+tofu,grad-diff,1e-05,8,700,[2075],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_700_2075
+tofu,grad-diff,1e-05,8,800,[1570],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_800_1570
+tofu,grad-diff,1e-05,8,300,[1802],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_300_1802
+tofu,grad-diff,1e-05,8,500,[45],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_500_45
+tofu,grad-diff,1e-05,8,500,[1570],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_500_1570
+tofu,grad-diff,1e-05,8,200,[276],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_200_276
+tofu,grad-diff,1e-05,8,900,[529],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_900_529
+tofu,grad-diff,1e-05,8,900,[1187],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_900_1187
+tofu,grad-diff,1e-05,8,900,[45],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_900_45
+tofu,grad-diff,1e-05,8,400,[1187],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_400_1187
+tofu,grad-diff,1e-05,8,500,[529],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_500_529
+tofu,grad-diff,1e-05,8,100,[954],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_100_954
+tofu,grad-diff,1e-05,8,100,[1802],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_100_1802
+tofu,grad-diff,1e-05,8,500,[2075],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_500_2075
+tofu,grad-diff,1e-05,8,800,[2075],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_800_2075
+tofu,grad-diff,1e-05,8,700,[1570],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_700_1570
+tofu,grad-diff,1e-05,8,200,[1187],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_200_1187
+tofu,grad-diff,1e-05,8,100,[276],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_100_276
+tofu,grad-diff,1e-05,8,800,[45],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_800_45
+tofu,grad-diff,1e-05,8,600,[529],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_600_529
+tofu,grad-diff,1e-05,8,200,[954],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_200_954
+tofu,grad-diff,1e-05,8,100,[1570],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_100_1570
+tofu,grad-diff,1e-05,8,700,[1802],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_700_1802
+tofu,grad-diff,1e-05,8,300,[2075],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_300_2075
+tofu,grad-diff,1e-05,8,700,[529],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_700_529
+tofu,grad-diff,1e-05,8,800,[1802],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_800_1802
+tofu,grad-diff,1e-05,8,300,[1570],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_300_1570
+tofu,grad-diff,1e-05,8,400,[45],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_400_45
+tofu,grad-diff,1e-05,8,300,[954],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_300_954
+tofu,grad-diff,1e-05,8,100,[2075],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_100_2075
+tofu,grad-diff,1e-05,8,500,[1802],https://huggingface.co/advit/tofu_grad-diff_1e-05_8_500_1802
